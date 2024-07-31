@@ -10,3 +10,6 @@ let colores = ["amarillo", "azul", "rojo"];
 colores.shift();
 console.log (colores);
 
+let ciudades = ["Madrid", "Barcelona", "Teruel"];
+ciudades.unshift("Munich");
+console.log (ciudades);
