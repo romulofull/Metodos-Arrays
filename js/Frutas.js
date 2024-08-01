@@ -25,3 +25,7 @@ console.log (todoslosAnimales);
 let helados = ["chocolate","vainilla","limon", "fresa", "menta"];
 helados.reverse();
 console.log(helados);
+
+let marcas = ["samsung", "motorola", "iphone"];
+marcas.sort();
+console.log(marcas);
